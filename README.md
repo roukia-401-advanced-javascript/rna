@@ -11,9 +11,12 @@ so instead of opening google and just see random images that takes much time to 
 
 ## How do I use this application
 
-- open the app
-- swip right between photos to see a collection of photes.
-- press the share icone to share the link of the image with your friends
-- press the reffresh icon to get a new collection!
+- Open the app
+- Swip right and left between images to see a collection of photes.
+- Press the share icone to share the link of the image with your friends
+- Press the reffresh icon to get a new collection!
 
-![]()
+![](./p5.JPG)
+![](./p4.JPG)
+![](./p3.JPG)
+![](./share1.JPG)
