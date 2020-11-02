@@ -19,7 +19,7 @@ Instead of opening google and just see random images that takes much time to loo
 
 - Open the app and scan the QR code 
 
-![](./QRCode.jpg)
+![](./QRcode.png)
 
 - Swip right and left between images to see a collection of photes.
 - Press the share icone to share the link of the image with your friends
