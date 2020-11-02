@@ -25,7 +25,5 @@ Instead of opening google and just see random images that takes much time to loo
 - Press the share icone to share the link of the image with your friends
 - Press the reffresh icon to get a new collection!
 
-![](./p5.JPG)
-![](./p4.JPG)
 ![](./p3.JPG)
 ![](./share1.JPG)
