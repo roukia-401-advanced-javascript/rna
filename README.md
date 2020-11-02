@@ -12,7 +12,15 @@ Instead of opening google and just see random images that takes much time to loo
 
 ## How do I use this application ?
 
-- Open the app
+- Download Expo Application
+
+   - [App Stpre](https://apps.apple.com/us/app/expo-client/id982107779)
+   - [Google Play](https://play.google.com/store/apps/details?id=host.exp.exponent)
+
+- Open the app and scan the QR code 
+
+![](./QRCode.jpg)
+
 - Swip right and left between images to see a collection of photes.
 - Press the share icone to share the link of the image with your friends
 - Press the reffresh icon to get a new collection!
